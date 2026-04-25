@@ -67,3 +67,14 @@ the following form: YYYY.0M.0D.
 ### Updated
 
 - Did not change prior designs
+
+## YYYY.MM.DD
+
+### Added
+
+- Designed test suite for PrintQueue component
+- Designed two different use cases for PrintQueue component
+
+### Updated
+
+- Changed design to include better javadoc comments in a lot of the files.
