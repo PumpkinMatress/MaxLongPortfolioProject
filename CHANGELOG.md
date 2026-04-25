@@ -18,6 +18,7 @@ the following form: YYYY.0M.0D.
 - Completed brainstorming on separate version, copied over on 4/24
 
 
+
 ## 2026.04.22
 
 
@@ -25,6 +26,7 @@ the following form: YYYY.0M.0D.
 
 
 - Completed proof of concept, copied over on 4/24
+
 
 
 ## 2026.04.24
@@ -37,7 +39,9 @@ the following form: YYYY.0M.0D.
 - Designed enhanced interface (PrintQueue) for PrintQueue component
 - Added component hierarchy diagram
 
+### Updated
 
+- Did not change prior designs
 
 
 
@@ -48,3 +52,18 @@ the following form: YYYY.0M.0D.
 
 - Designed PrintQueueSecondary, implementing all of PrintQueues abstract methods.
 
+### Updated
+
+- Did not change prior designs
+
+## 2026.04.24
+
+
+### Added
+- Implemented kernel class (PrintQueue1L) for PrintQueue component
+- Implemented all kernel methods, Standard methods, and constructor
+- Defined convention and correspondence for the representation
+
+### Updated
+
+- Did not change prior designs
